@@ -14,5 +14,3 @@ Hey my name is Melle Koot I’m a programmer-creator located in the Netherlands,
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mellekoot&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
